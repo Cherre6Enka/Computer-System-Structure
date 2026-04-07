@@ -4,7 +4,7 @@ This repository contains academic projects focused on digital logic design and l
 
 ## 🌐 Interactive Logic Simulator
 A full-scale digital logic simulation developed in **CircuitVerse**.
-👉 **[Launch Live Simulator](https://YOUR_USERNAME.github.io/Computer-System-Structure/)**
+👉 **[Launch Live Simulator](https://cherre6enka.github.io/Computer-System-Structure/)**
 
 * **Concepts:** Combinational logic, Adders, and Multiplexers.
 * **Platform:** CircuitVerse (Embedded via GitHub Pages).
